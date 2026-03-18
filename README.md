@@ -1,11 +1,11 @@
-## Xin chào, mình là Đỗ Khắc Hảo
-💬 Hiện tại đang là sinh viên công nghệ thông tin trường đại học **Nông lâm thành phố Hồ Chí Minh - NLU**.
+## Hello, I’m Do Khac Hao
+💬 I am currently an Information Technology student at Nong Lam University, Ho Chi Minh City.
 
-💬 Đây là trang github cá nhân của mình, dùng để lưu trữ lại các kiến thức trong quá trình học tại trường cũng như các dự án mà mình đang làm.
+💬 This is my personal GitHub page, where I store the knowledge I have gained during my studies at university as well as the projects I am currently working on.
 
-💬 Hiện tại, định hướng của mình là **Backend Developer**, công nghệ đang sử dụng là **SpringBoot**, kiến trúc đang tìm hiểu là **Microservices**.
+💬 At the moment, my career goal is to become a **Backend Developer**. The main technology I am using is **Spring Boot**, and the architecture I am currently exploring is **Microservices**.
 
-📫 Bạn có thể kết nối với mình qua:
+📫 You can connect with me via:
 
 <p align="left">
   <a href="mailto:k42.dkhao@gmail.com">
@@ -16,7 +16,7 @@
 🌐 Portfolio: 
 
 <h2 align="center">
-  Các công nghệ mình đang học & sử dụng
+  Technologies I am currently learning and using
   <img src="https://cdn.discordapp.com/emojis/736472637353623613.gif?v=1" width="40">
 </h2>
 
@@ -57,7 +57,7 @@
 
 <p align="center">
 <h2 align="center">
-  Hoạt động GitHub 
+  GitHub Activity
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 </h2>
 
